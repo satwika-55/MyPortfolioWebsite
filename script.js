@@ -12,7 +12,7 @@ const texts = [
     "Competitive Programmer",
     "5 star Coder on Codechef",
     "Pupil on Codeforces",
-    "Knight(2000+) on Leetcode"
+    "Knight(2000+) Leetcode"
 ]
 let speed  = 30;
 const textElements = document.querySelector(".typewriter-text");
@@ -40,3 +40,4 @@ function eraseText(){
     }
 }
 window.onload = typeWriter
+
